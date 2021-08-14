@@ -1,1 +1,264 @@
-<?xml version="1.0" encoding="utf-8"?><EntryList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" iofVersion="3.0" createTime="2021-07-20T23:46:36.4425322Z" creator="Eventor" xmlns="http://www.orienteering.org/datastandard/3.0"><Event modifyTime="2021-05-26T09:40:32Z"><Id type="Norway">15041</Id><Name>Trening 27. mai</Name><StartTime><Date>2021-05-27</Date><Time>16:00:00Z</Time></StartTime><EndTime><Date>2021-05-27</Date><Time>16:00:00Z</Time></EndTime><Status>Sanctioned</Status><Classification>Club</Classification><Form>Individual</Form><Organiser type="Club" modifyTime="2014-04-23T14:04:14Z"><Id type="Norway">328</Id><Name>Stokke IL</Name><ShortName>Stokke IL</ShortName><MediaName>Stokke IL</MediaName><ParentOrganisationId>19</ParentOrganisationId><Country code="NOR">Norway</Country></Organiser><Official type="ContactPerson"><Person sex="M" modifyTime="2019-12-24T18:21:48Z"><Id>41</Id><Name><Family>Ravnan</Family><Given>Eirik</Given></Name><BirthDate>1989-03-30</BirthDate><Nationality code="NOR" /><Contact type="EmailAddress">eirikrav@gmail.com</Contact><Contact type="MobilePhoneNumber">95186187</Contact></Person></Official><Race><RaceNumber>1</RaceNumber><StartTime><Date>2021-05-27</Date><Time>16:00:00Z</Time></StartTime><Position lng="10.359008344872338" lat="59.257099628930661" /></Race><URL type="Website">http://orientering.stokkeil.no/</URL></Event><PersonEntry modifyTime="2021-05-26T15:24:25Z"><Id type="Norway">1167740</Id><Person sex="M" modifyTime="2012-05-04T11:15:52Z"><Id type="Norway">208</Id><Name><Family>Kristensen</Family><Given>Arne</Given></Name><BirthDate>1964-12-03</BirthDate><Nationality code="NOR">Norge</Nationality></Person><Organisation type="Club" modifyTime="2014-04-23T14:04:14Z"><Id type="Norway">328</Id><Name>Stokke IL</Name><ShortName>Stokke IL</ShortName><MediaName>Stokke IL</MediaName><ParentOrganisationId>19</ParentOrganisationId><Country code="NOR">Norge</Country></Organisation><ControlCard punchingSystem="Emit">224336</ControlCard><Class><Id type="Norway">181</Id><Name>AL</Name></Class><RaceNumber>1</RaceNumber><AssignedFee><Fee><Id type="Norway">46698</Id><Name>Påmeldingskontingent voksen, åpen klasse</Name><Amount currency="NOK">0</Amount><ValidToTime>2021-05-27T15:59:59Z</ValidToTime><ToDateOfBirth>2004-12-31</ToDateOfBirth></Fee></AssignedFee><EntryTime>2021-05-26T15:24:25Z</EntryTime></PersonEntry><PersonEntry modifyTime="2021-05-26T15:53:37Z"><Id type="Norway">1167774</Id><Person sex="M" modifyTime="2013-05-29T19:15:02Z"><Id type="Norway">14202</Id><Name><Family>Gunnerød</Family><Given>Niclas</Given></Name><BirthDate>2006-09-29</BirthDate><Nationality code="NOR">Norge</Nationality></Person><Organisation type="Club" modifyTime="2014-04-23T14:04:14Z"><Id type="Norway">328</Id><Name>Stokke IL</Name><ShortName>Stokke IL</ShortName><MediaName>Stokke IL</MediaName><ParentOrganisationId>19</ParentOrganisationId><Country code="NOR">Norge</Country></Organisation><ControlCard punchingSystem="Emit">509334</ControlCard><Class><Id type="Norway">180</Id><Name>AK</Name></Class><RaceNumber>1</RaceNumber><AssignedFee><Fee><Id type="Norway">46699</Id><Name>Påmeldingskontingent ungdom, åpen klasse</Name><Amount currency="NOK">0</Amount><ValidToTime>2021-05-27T15:59:59Z</ValidToTime><FromDateOfBirth>2005-01-01</FromDateOfBirth></Fee></AssignedFee><EntryTime>2021-05-26T15:53:36Z</EntryTime></PersonEntry><PersonEntry modifyTime="2021-05-26T20:35:55Z"><Id type="Norway">1168097</Id><Person sex="M" modifyTime="2018-04-15T11:44:22Z"><Id type="Norway">20325</Id><Name><Family>Kløve</Family><Given>Magne</Given></Name><BirthDate>1968-09-11</BirthDate><Nationality code="NOR">Norge</Nationality></Person><Organisation type="Club" modifyTime="2014-04-23T14:04:14Z"><Id type="Norway">328</Id><Name>Stokke IL</Name><ShortName>Stokke IL</ShortName><MediaName>Stokke IL</MediaName><ParentOrganisationId>19</ParentOrganisationId><Country code="NOR">Norge</Country></Organisation><ControlCard punchingSystem="Emit">211547</ControlCard><Class><Id type="Norway">181</Id><Name>AL</Name></Class><RaceNumber>1</RaceNumber><AssignedFee><Fee><Id type="Norway">46698</Id><Name>Påmeldingskontingent voksen, åpen klasse</Name><Amount currency="NOK">0</Amount><ValidToTime>2021-05-27T15:59:59Z</ValidToTime><ToDateOfBirth>2004-12-31</ToDateOfBirth></Fee></AssignedFee><EntryTime>2021-05-26T20:35:54Z</EntryTime></PersonEntry><PersonEntry modifyTime="2021-05-26T21:40:30Z"><Id type="Norway">1168134</Id><Person sex="M" modifyTime="2015-01-11T12:08:06Z"><Id type="Norway">10132</Id><Name><Family>Dybvik</Family><Given>Kenneth</Given></Name><BirthDate>1972-05-31</BirthDate><Nationality code="NOR">Norge</Nationality></Person><Organisation type="Club" modifyTime="2014-04-23T14:04:14Z"><Id type="Norway">328</Id><Name>Stokke IL</Name><ShortName>Stokke IL</ShortName><MediaName>Stokke IL</MediaName><ParentOrganisationId>19</ParentOrganisationId><Country code="NOR">Norge</Country></Organisation><ControlCard punchingSystem="Emit">224085</ControlCard><Class><Id type="Norway">180</Id><Name>AK</Name></Class><RaceNumber>1</RaceNumber><AssignedFee><Fee><Id type="Norway">46698</Id><Name>Påmeldingskontingent voksen, åpen klasse</Name><Amount currency="NOK">0</Amount><ValidToTime>2021-05-27T15:59:59Z</ValidToTime><ToDateOfBirth>2004-12-31</ToDateOfBirth></Fee></AssignedFee><EntryTime>2021-05-26T21:40:29Z</EntryTime></PersonEntry><PersonEntry modifyTime="2021-05-26T21:40:30Z"><Id type="Norway">1168135</Id><Person sex="M" modifyTime="2014-09-17T17:35:22Z"><Id type="Norway">18972</Id><Name><Family>Dybvik</Family><Given>Jens G.</Given></Name><BirthDate>2007-05-20</BirthDate><Nationality code="NOR">Norge</Nationality></Person><Organisation type="Club" modifyTime="2014-04-23T14:04:14Z"><Id type="Norway">328</Id><Name>Stokke IL</Name><ShortName>Stokke IL</ShortName><MediaName>Stokke IL</MediaName><ParentOrganisationId>19</ParentOrganisationId><Country code="NOR">Norge</Country></Organisation><ControlCard punchingSystem="Emit">511786</ControlCard><Class><Id type="Norway">180</Id><Name>AK</Name></Class><RaceNumber>1</RaceNumber><AssignedFee><Fee><Id type="Norway">46699</Id><Name>Påmeldingskontingent ungdom, åpen klasse</Name><Amount currency="NOK">0</Amount><ValidToTime>2021-05-27T15:59:59Z</ValidToTime><FromDateOfBirth>2005-01-01</FromDateOfBirth></Fee></AssignedFee><EntryTime>2021-05-26T21:40:29Z</EntryTime></PersonEntry><PersonEntry modifyTime="2021-05-27T15:35:13Z"><Id type="Norway">1168329</Id><Person sex="F" modifyTime="2017-08-20T16:55:34Z"><Id type="Norway">24648</Id><Name><Family>Bøe</Family><Given>Julie Synnøve</Given></Name><BirthDate>1972-10-10</BirthDate><Nationality code="NOR">Norge</Nationality></Person><Organisation type="Club" modifyTime="2014-04-23T14:04:14Z"><Id type="Norway">328</Id><Name>Stokke IL</Name><ShortName>Stokke IL</ShortName><MediaName>Stokke IL</MediaName><ParentOrganisationId>19</ParentOrganisationId><Country code="NOR">Norge</Country></Organisation><ControlCard punchingSystem="Emit">236343</ControlCard><Class><Id type="Norway">70</Id><Name>N</Name></Class><RaceNumber>1</RaceNumber><AssignedFee><Fee><Id type="Norway">46698</Id><Name>Påmeldingskontingent voksen, åpen klasse</Name><Amount currency="NOK">0</Amount><ValidToTime>2021-05-27T15:59:59Z</ValidToTime><ToDateOfBirth>2004-12-31</ToDateOfBirth></Fee></AssignedFee><EntryTime>2021-05-27T15:35:12Z</EntryTime></PersonEntry></EntryList>
+<?xml version="1.0" encoding="utf-8"?>
+<EntryList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" iofVersion="3.0" createTime="2021-07-20T23:46:36.4425322Z" creator="Eventor" xmlns="http://www.orienteering.org/datastandard/3.0">
+  <Event modifyTime="2021-05-26T09:40:32Z">
+    <Id type="Norway">15041</Id>
+    <Name>Trening 27. mai</Name>
+    <StartTime>
+      <Date>2021-05-27</Date>
+      <Time>16:00:00Z</Time>
+    </StartTime>
+    <EndTime>
+      <Date>2021-05-27</Date>
+      <Time>16:00:00Z</Time>
+    </EndTime>
+    <Status>Sanctioned</Status>
+    <Classification>Club</Classification>
+    <Form>Individual</Form>
+    <Organiser type="Club" modifyTime="2014-04-23T14:04:14Z">
+      <Id type="Norway">328</Id>
+      <Name>Stokke IL</Name>
+      <ShortName>Stokke IL</ShortName>
+      <MediaName>Stokke IL</MediaName>
+      <ParentOrganisationId>19</ParentOrganisationId>
+      <Country code="NOR">Norway</Country>
+    </Organiser>
+    <Official type="ContactPerson">
+      <Person sex="M" modifyTime="2019-12-24T18:21:48Z">
+        <Id>41</Id>
+        <Name>
+          <Family>Ravnan</Family>
+          <Given>Eirik</Given>
+        </Name>
+        <BirthDate>1989-03-30</BirthDate>
+        <Nationality code="NOR" />
+        <Contact type="EmailAddress">eirikrav@gmail.com</Contact>
+        <Contact type="MobilePhoneNumber">95186187</Contact>
+      </Person>
+    </Official>
+    <Race>
+      <RaceNumber>1</RaceNumber>
+      <StartTime>
+        <Date>2021-05-27</Date>
+        <Time>16:00:00Z</Time>
+      </StartTime>
+      <Position lng="10.359008344872338" lat="59.257099628930661" />
+    </Race>
+    <URL type="Website">http://orientering.stokkeil.no/</URL>
+  </Event>
+  <PersonEntry modifyTime="2021-05-26T15:24:25Z">
+    <Id type="Norway">1167740</Id>
+    <Person sex="M" modifyTime="2012-05-04T11:15:52Z">
+      <Id type="Norway">208</Id>
+      <Name>
+        <Family>Kristensen</Family>
+        <Given>Arne</Given>
+      </Name>
+      <BirthDate>1964-12-03</BirthDate>
+      <Nationality code="NOR">Norge</Nationality>
+    </Person>
+    <Organisation type="Club" modifyTime="2014-04-23T14:04:14Z">
+      <Id type="Norway">328</Id>
+      <Name>Stokke IL</Name>
+      <ShortName>Stokke IL</ShortName>
+      <MediaName>Stokke IL</MediaName>
+      <ParentOrganisationId>19</ParentOrganisationId>
+      <Country code="NOR">Norge</Country>
+    </Organisation>
+    <ControlCard punchingSystem="Emit">224336</ControlCard>
+    <Class>
+      <Id type="Norway">181</Id>
+      <Name>AL</Name>
+    </Class>
+    <RaceNumber>1</RaceNumber>
+    <AssignedFee>
+      <Fee>
+        <Id type="Norway">46698</Id>
+        <Name>Påmeldingskontingent voksen, åpen klasse</Name>
+        <Amount currency="NOK">0</Amount>
+        <ValidToTime>2021-05-27T15:59:59Z</ValidToTime>
+        <ToDateOfBirth>2004-12-31</ToDateOfBirth>
+      </Fee>
+    </AssignedFee>
+    <EntryTime>2021-05-26T15:24:25Z</EntryTime>
+  </PersonEntry>
+  <PersonEntry modifyTime="2021-05-26T15:53:37Z">
+    <Id type="Norway">1167774</Id>
+    <Person sex="M" modifyTime="2013-05-29T19:15:02Z">
+      <Id type="Norway">14202</Id>
+      <Name>
+        <Family>Gunnerød</Family>
+        <Given>Niclas</Given>
+      </Name>
+      <BirthDate>2006-09-29</BirthDate>
+      <Nationality code="NOR">Norge</Nationality>
+    </Person>
+    <Organisation type="Club" modifyTime="2014-04-23T14:04:14Z">
+      <Id type="Norway">328</Id>
+      <Name>Stokke IL</Name>
+      <ShortName>Stokke IL</ShortName>
+      <MediaName>Stokke IL</MediaName>
+      <ParentOrganisationId>19</ParentOrganisationId>
+      <Country code="NOR">Norge</Country>
+    </Organisation>
+    <ControlCard punchingSystem="Emit">509334</ControlCard>
+    <Class>
+      <Id type="Norway">180</Id>
+      <Name>AK</Name>
+    </Class>
+    <RaceNumber>1</RaceNumber>
+    <AssignedFee>
+      <Fee>
+        <Id type="Norway">46699</Id>
+        <Name>Påmeldingskontingent ungdom, åpen klasse</Name>
+        <Amount currency="NOK">0</Amount>
+        <ValidToTime>2021-05-27T15:59:59Z</ValidToTime>
+        <FromDateOfBirth>2005-01-01</FromDateOfBirth>
+      </Fee>
+    </AssignedFee>
+    <EntryTime>2021-05-26T15:53:36Z</EntryTime>
+  </PersonEntry>
+  <PersonEntry modifyTime="2021-05-26T20:35:55Z">
+    <Id type="Norway">1168097</Id>
+    <Person sex="M" modifyTime="2018-04-15T11:44:22Z">
+      <Id type="Norway">20325</Id>
+      <Name>
+        <Family>Kløve</Family>
+        <Given>Magne</Given>
+      </Name>
+      <BirthDate>1968-09-11</BirthDate>
+      <Nationality code="NOR">Norge</Nationality>
+    </Person>
+    <Organisation type="Club" modifyTime="2014-04-23T14:04:14Z">
+      <Id type="Norway">328</Id>
+      <Name>Stokke IL</Name>
+      <ShortName>Stokke IL</ShortName>
+      <MediaName>Stokke IL</MediaName>
+      <ParentOrganisationId>19</ParentOrganisationId>
+      <Country code="NOR">Norge</Country>
+    </Organisation>
+    <ControlCard punchingSystem="Emit">211547</ControlCard>
+    <Class>
+      <Id type="Norway">181</Id>
+      <Name>AL</Name>
+    </Class>
+    <RaceNumber>1</RaceNumber>
+    <AssignedFee>
+      <Fee>
+        <Id type="Norway">46698</Id>
+        <Name>Påmeldingskontingent voksen, åpen klasse</Name>
+        <Amount currency="NOK">0</Amount>
+        <ValidToTime>2021-05-27T15:59:59Z</ValidToTime>
+        <ToDateOfBirth>2004-12-31</ToDateOfBirth>
+      </Fee>
+    </AssignedFee>
+    <EntryTime>2021-05-26T20:35:54Z</EntryTime>
+  </PersonEntry>
+  <PersonEntry modifyTime="2021-05-26T21:40:30Z">
+    <Id type="Norway">1168134</Id>
+    <Person sex="M" modifyTime="2015-01-11T12:08:06Z">
+      <Id type="Norway">10132</Id>
+      <Name>
+        <Family>Dybvik</Family>
+        <Given>Kenneth</Given>
+      </Name>
+      <BirthDate>1972-05-31</BirthDate>
+      <Nationality code="NOR">Norge</Nationality>
+    </Person>
+    <Organisation type="Club" modifyTime="2014-04-23T14:04:14Z">
+      <Id type="Norway">328</Id>
+      <Name>Stokke IL</Name>
+      <ShortName>Stokke IL</ShortName>
+      <MediaName>Stokke IL</MediaName>
+      <ParentOrganisationId>19</ParentOrganisationId>
+      <Country code="NOR">Norge</Country>
+    </Organisation>
+    <ControlCard punchingSystem="Emit">224085</ControlCard>
+    <Class>
+      <Id type="Norway">180</Id>
+      <Name>AK</Name>
+    </Class>
+    <RaceNumber>1</RaceNumber>
+    <AssignedFee>
+      <Fee>
+        <Id type="Norway">46698</Id>
+        <Name>Påmeldingskontingent voksen, åpen klasse</Name>
+        <Amount currency="NOK">0</Amount>
+        <ValidToTime>2021-05-27T15:59:59Z</ValidToTime>
+        <ToDateOfBirth>2004-12-31</ToDateOfBirth>
+      </Fee>
+    </AssignedFee>
+    <EntryTime>2021-05-26T21:40:29Z</EntryTime>
+  </PersonEntry>
+  <PersonEntry modifyTime="2021-05-26T21:40:30Z">
+    <Id type="Norway">1168135</Id>
+    <Person sex="M" modifyTime="2014-09-17T17:35:22Z">
+      <Id type="Norway">18972</Id>
+      <Name>
+        <Family>Dybvik</Family>
+        <Given>Jens G.</Given>
+      </Name>
+      <BirthDate>2007-05-20</BirthDate>
+      <Nationality code="NOR">Norge</Nationality>
+    </Person>
+    <Organisation type="Club" modifyTime="2014-04-23T14:04:14Z">
+      <Id type="Norway">328</Id>
+      <Name>Stokke IL</Name>
+      <ShortName>Stokke IL</ShortName>
+      <MediaName>Stokke IL</MediaName>
+      <ParentOrganisationId>19</ParentOrganisationId>
+      <Country code="NOR">Norge</Country>
+    </Organisation>
+    <ControlCard punchingSystem="Emit">511786</ControlCard>
+    <Class>
+      <Id type="Norway">180</Id>
+      <Name>AK</Name>
+    </Class>
+    <RaceNumber>1</RaceNumber>
+    <AssignedFee>
+      <Fee>
+        <Id type="Norway">46699</Id>
+        <Name>Påmeldingskontingent ungdom, åpen klasse</Name>
+        <Amount currency="NOK">0</Amount>
+        <ValidToTime>2021-05-27T15:59:59Z</ValidToTime>
+        <FromDateOfBirth>2005-01-01</FromDateOfBirth>
+      </Fee>
+    </AssignedFee>
+    <EntryTime>2021-05-26T21:40:29Z</EntryTime>
+  </PersonEntry>
+  <PersonEntry modifyTime="2021-05-27T15:35:13Z">
+    <Id type="Norway">1168329</Id>
+    <Person sex="F" modifyTime="2017-08-20T16:55:34Z">
+      <Id type="Norway">24648</Id>
+      <Name>
+        <Family>Bøe</Family>
+        <Given>Julie Synnøve</Given>
+      </Name>
+      <BirthDate>1972-10-10</BirthDate>
+      <Nationality code="NOR">Norge</Nationality>
+    </Person>
+    <Organisation type="Club" modifyTime="2014-04-23T14:04:14Z">
+      <Id type="Norway">328</Id>
+      <Name>Stokke IL</Name>
+      <ShortName>Stokke IL</ShortName>
+      <MediaName>Stokke IL</MediaName>
+      <ParentOrganisationId>19</ParentOrganisationId>
+      <Country code="NOR">Norge</Country>
+    </Organisation>
+    <ControlCard punchingSystem="Emit">236343</ControlCard>
+    <Class>
+      <Id type="Norway">70</Id>
+      <Name>N</Name>
+    </Class>
+    <RaceNumber>1</RaceNumber>
+    <AssignedFee>
+      <Fee>
+        <Id type="Norway">46698</Id>
+        <Name>Påmeldingskontingent voksen, åpen klasse</Name>
+        <Amount currency="NOK">0</Amount>
+        <ValidToTime>2021-05-27T15:59:59Z</ValidToTime>
+        <ToDateOfBirth>2004-12-31</ToDateOfBirth>
+      </Fee>
+    </AssignedFee>
+    <EntryTime>2021-05-27T15:35:12Z</EntryTime>
+  </PersonEntry>
+</EntryList>
